@@ -1,4 +1,5 @@
 import { generateYAxis } from '@/app/lib/utils';
+import { type Revenue } from '@/app/lib/definitions';
 import { CalendarIcon } from '@heroicons/react/24/outline';
 import { lusitana } from '@/app/ui/fonts';
 
